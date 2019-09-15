@@ -1,6 +1,6 @@
 # Tanganyika
 
-Open Machine Learning Course [mlcourse.ai](mlcourse.ai). 2019 Spring Session (February 11th - April 26th).
+Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/). 2019 Spring Session and Fall Sessions.
 
 
 
